@@ -78,7 +78,7 @@ WSGI_APPLICATION = "easysell_api.wsgi.application"
 DATABASES = {
     "default": {
         "ENGINE": "django.db.backends.mysql",
-        "NAME": "django_api",
+        "NAME": "palying_with_api",
         "USER": "root",
         "PASSWORD": "",
         "HOST": "",
